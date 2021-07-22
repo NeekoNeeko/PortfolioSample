@@ -27,4 +27,5 @@
 | git diff | Show changes between commits, commit and working tree, etc. |
 | git merge | Combines sequences of commits into one unified history of commits. |
 | git rebase | Reapply commits on the top of another base tip. |
+| git revert | Used for undoing changes to a repository’s commit history. |
 
