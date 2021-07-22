@@ -13,7 +13,7 @@
 | Command | Description |
 | --- | --- |
 | git init | Initialize Repository or Reinitialize an existing one  |
-| git clone | | git init | Initialize Repository or Reinitialize an existing one. |
+| git clone | Clone the repository into a new directory.|
 | git status | Show the status of the file |
 | git add | Add file to staging area where allowed na mag commit. |
 | git commit | Record the changes to the repository. |
@@ -22,6 +22,6 @@
 | git remote add [name] | Create a new connection record to a remote repository |
 | git checkout | Navigate between the branches by git branch |
 | git diff | Show changes between commits, commit and working tree, etc. |
-
-
+| git merge | Combines sequences of commits into one unified history of commits. |
+| git rebase | Reapply commits on the top of another base tip. |
 
