@@ -13,5 +13,15 @@
 | Command | Description |
 | --- | --- |
 | git init | Initialize Repository or Reinitialize an existing one  |
+| git clone | | git init | Initialize Repository or Reinitialize an existing one. |
 | git status | Show the status of the file |
-| git tobecontinue | just add. |
+| git add | Add file to staging area where allowed na mag commit. |
+| git commit | Record the changes to the repository. |
+| git push | Update the remote repository  |
+| git pull | Fetch from and integrate with another repository or a local branch. |
+| git remote add [name] | Create a new connection record to a remote repository |
+| git checkout | Navigate between the branches by git branch |
+| git diff | Show changes between commits, commit and working tree, etc. |
+
+
+
