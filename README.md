@@ -11,7 +11,7 @@
    git config --global user.email "**Better use your own email in GitHub**"
 
 
-### Below are the some Git commands:
+### Below are some Git commands:
     
 | Command | Description |
 | --- | --- |
