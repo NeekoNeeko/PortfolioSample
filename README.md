@@ -11,7 +11,7 @@
    git config --global user.email "**Better use your own email in GitHub**"
 
 
-### Below are the Git commands:
+### Below are the some Git commands:
     
 | Command | Description |
 | --- | --- |
@@ -28,4 +28,5 @@
 | git merge | Combines sequences of commits into one unified history of commits. |
 | git rebase | Reapply commits on the top of another base tip. |
 | git revert | Used for undoing changes to a repository’s commit history. |
+| git reset | Reset the current **HEAD** to the specified state. |
 
