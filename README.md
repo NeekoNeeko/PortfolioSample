@@ -5,6 +5,9 @@
 
 ## :smiley: This sample portfolio only serves as a practice tool for deployment. Any user can freely use or modify it. 
 
+:triangular_flag_on_post: For deployment using GitHub pages user must name their repository as username.github.io
+ex: NeekoNeeko.github.io (NeekoNeeko is my GitHub username)
+
 ### User must config their Git using these:
 
    git config --global user.name "**Better use your own GitHub username**"\
