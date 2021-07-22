@@ -8,7 +8,10 @@
 ### User must config their Git using these:
 
    git config --global user.name "**Better use your own GitHub username**"\
-   git config --global user.email "**Better use your own email in GitHub**"
+   git config --global user.email "**Better use your own email in GitHub**"\
+
+
+### Below are the Git commands:
     
 | Command | Description |
 | --- | --- |
