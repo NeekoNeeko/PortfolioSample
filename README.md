@@ -5,7 +5,11 @@
 
 ## :smiley: This sample portfolio only serves as a practice tool for deployment. Any user can freely use or modify it. 
 
+### User must config their Git using these:
 
+   git config --global user.name "**Better use your own GitHub username**"
+   git config --global user.email "**Better use your own email in GitHub**"
+    
 | Command | Description |
 | --- | --- |
 | git init | Initialize Repository or Reinitialize an existing one  |
