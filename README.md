@@ -32,4 +32,4 @@ ex: NeekoNeeko.github.io (NeekoNeeko is my GitHub username)
 | git rebase | Reapply commits on the top of another base tip. |
 | git revert | Used for undoing changes to a repository’s commit history. |
 | git reset | Reset the current **HEAD** to the specified state. |
-
+| git reset HEAD~1 | undo the commit |
